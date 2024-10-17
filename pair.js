@@ -65,7 +65,16 @@ router.get('/', async (req, res) => {
 
 *ANYWAY MD SESSION CONNECTED*
 
+*MADE BI ANYWAY TECH*
+
+*WACHANNEL*
+https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09
+
+*WAGRUOP*
+https://chat.whatsapp.com/KNtmZ4RyvwgL6kBlqzs6ME
+
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
+
 `
  await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id,{text:FLASH_MD_TEXT},{quoted:session})
  
