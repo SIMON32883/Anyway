@@ -71,7 +71,7 @@ router.get('/', async (req, res) => {
 https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09
 
 *WAGRUOP*
-https://chat.whatsapp.com/JIrS36Ya3SnAbCHVzPSp43
+https://chat.whatsapp.com/ER46i5tRHk5DuCWJYHmHGz
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
 
